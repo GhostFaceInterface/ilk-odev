@@ -1,7 +1,7 @@
 //Bu kod 030121038 okul numaralı Muhammed Beşir ASLAN adında bir eleman tarafından yapılmıştır  
 
 
-public class cu{
+public class Main{
 
     static void durum1(){
         for(int i=1;i<6;i++){
